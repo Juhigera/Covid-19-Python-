@@ -6,7 +6,7 @@ By applying data cleaning, feature engineering, transformation, and time-series 
 
 📂 Datasets Used
 
-The analysis uses three key datasets (Jan 22, 2020 – Dec 5, 2021):
+The analysis uses three key datasets (Jan 2, 2020 – Dec 5, 2021):
 
 1. Confirmed Cases Dataset
 
